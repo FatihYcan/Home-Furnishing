@@ -22,7 +22,7 @@ Bu proje, çeşitli mobilya ve aksesuar kategorilerini sergileyen, kurgusal bir 
 
 ## Kullanılan Teknolojiler
 
--HTML5
+- HTML5
 - CSS3
 - Google Fonts API
 
