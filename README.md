@@ -34,6 +34,6 @@ Bu proje, çeşitli mobilya ve aksesuar kategorilerini sergileyen, kurgusal bir 
 - Danışma için iletişim formu
 - Gizlilik politikasına ve hizmet şartlarına bağlantılar içeren altbilgi
 
-https://github.com/user-attachments/assets/014ad2db-993c-4cb3-bde9-f477f38ff51f
+https://github.com/user-attachments/assets/949d548e-8c8f-4d6a-ad97-2bcf23c06e20
 
 [Canlı Demo'yu Deneyin](https://homefurn.netlify.app/)
